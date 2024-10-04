@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gtorser.github.io/sitemap.html.gz
+Sitemap: https://gtorser.github.io/app/sitemap.html.gz
+Sitemap: https://gtorser.github.io/assets/sitemap.html.gz
+Sitemap: https://gtorser.github.io/css/sitemap.html.gz
+Sitemap: https://gtorser.github.io/data/sitemap.html.gz
+Sitemap: https://gtorser.github.io/includes/sitemap.html.gz
+Sitemap: https://gtorser.github.io/item/sitemap.html.gz
+Sitemap: https://gtorser.github.io/src/sitemap.html.gz
